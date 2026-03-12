@@ -7,7 +7,7 @@ A simple Flask project demonstrating **user registration** functionality. This p
 ## Features
 
 - User registration form
-- Form validation
+
 - Rendering HTML templates with Flask
 - Basic project structure for Flask apps
 
